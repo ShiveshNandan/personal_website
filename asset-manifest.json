@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.e3cc8afa.css",
-    "main.js": "/personal_website/static/js/main.33998839.js",
+    "main.css": "/personal_website/static/css/main.988f70f8.css",
+    "main.js": "/personal_website/static/js/main.67ee408a.js",
     "static/js/787.28cb0dcd.chunk.js": "/personal_website/static/js/787.28cb0dcd.chunk.js",
     "static/media/IMG20220715155127 (2).jpg": "/personal_website/static/media/IMG20220715155127 (2).21705cb99a110a1133e8.jpg",
+    "static/media/logo_name_white.png": "/personal_website/static/media/logo_name_white.1e025d7c06e966a6fd7d.png",
     "static/media/IMG20210527190320.jpg": "/personal_website/static/media/IMG20210527190320.757615c349746f4a15ce.jpg",
     "static/media/new2.jpeg": "/personal_website/static/media/new2.3969def7dd325d627f92.jpeg",
+    "static/media/WhatsApp Image 2022-06-29 at 10.20.08 PM.jpeg": "/personal_website/static/media/WhatsApp Image 2022-06-29 at 10.20.08 PM.86ae0999128e876ccfe8.jpeg",
     "index.html": "/personal_website/index.html",
-    "main.e3cc8afa.css.map": "/personal_website/static/css/main.e3cc8afa.css.map",
-    "main.33998839.js.map": "/personal_website/static/js/main.33998839.js.map",
+    "main.988f70f8.css.map": "/personal_website/static/css/main.988f70f8.css.map",
+    "main.67ee408a.js.map": "/personal_website/static/js/main.67ee408a.js.map",
     "787.28cb0dcd.chunk.js.map": "/personal_website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3cc8afa.css",
-    "static/js/main.33998839.js"
+    "static/css/main.988f70f8.css",
+    "static/js/main.67ee408a.js"
   ]
 }
