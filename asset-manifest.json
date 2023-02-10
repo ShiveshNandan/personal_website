@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.d4786b6e.css",
-    "main.js": "/personal_website/static/js/main.79858c5c.js",
+    "main.css": "/personal_website/static/css/main.a4f8bc86.css",
+    "main.js": "/personal_website/static/js/main.b21dd8e6.js",
     "static/js/787.28cb0dcd.chunk.js": "/personal_website/static/js/787.28cb0dcd.chunk.js",
     "static/media/IMG20220715155127 (2).jpg": "/personal_website/static/media/IMG20220715155127 (2).21705cb99a110a1133e8.jpg",
     "static/media/logo_name_white.png": "/personal_website/static/media/logo_name_white.1e025d7c06e966a6fd7d.png",
@@ -10,12 +10,12 @@
     "static/media/WhatsApp Image 2022-06-29 at 10.20.08 PM.jpeg": "/personal_website/static/media/WhatsApp Image 2022-06-29 at 10.20.08 PM.86ae0999128e876ccfe8.jpeg",
     "static/media/s-n-low-resolution-logo-white-on-transparent-background.png": "/personal_website/static/media/s-n-low-resolution-logo-white-on-transparent-background.93bd16ffb3825b20ab39.png",
     "index.html": "/personal_website/index.html",
-    "main.d4786b6e.css.map": "/personal_website/static/css/main.d4786b6e.css.map",
-    "main.79858c5c.js.map": "/personal_website/static/js/main.79858c5c.js.map",
+    "main.a4f8bc86.css.map": "/personal_website/static/css/main.a4f8bc86.css.map",
+    "main.b21dd8e6.js.map": "/personal_website/static/js/main.b21dd8e6.js.map",
     "787.28cb0dcd.chunk.js.map": "/personal_website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4786b6e.css",
-    "static/js/main.79858c5c.js"
+    "static/css/main.a4f8bc86.css",
+    "static/js/main.b21dd8e6.js"
   ]
 }
