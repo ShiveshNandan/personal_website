@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.7d740140.css",
+    "main.css": "/personal_website/static/css/main.cfd35e20.css",
     "main.js": "/personal_website/static/js/main.ebbfb080.js",
     "static/js/787.28cb0dcd.chunk.js": "/personal_website/static/js/787.28cb0dcd.chunk.js",
     "static/media/IMG20220715155127 (2).jpg": "/personal_website/static/media/IMG20220715155127 (2).21705cb99a110a1133e8.jpg",
     "static/media/logo_name_white.png": "/personal_website/static/media/logo_name_white.1e025d7c06e966a6fd7d.png",
-    "static/media/IMG20210527190320.jpg": "/personal_website/static/media/IMG20210527190320.757615c349746f4a15ce.jpg",
-    "static/media/-_121.jpg": "/personal_website/static/media/-6057585736879812765_121.e51e557e912d39cdd48a.jpg",
+    "static/media/41.png": "/personal_website/static/media/41.c6a223430d6e8a6d4c97.png",
+    "static/media/45.png": "/personal_website/static/media/45.8379cb5f5b5e2da5289e.png",
     "static/media/7.jpg": "/personal_website/static/media/7.ff9f48b9cb07b4034781.jpg",
     "static/media/8.jpg": "/personal_website/static/media/8.2b7cbb862c136779d25c.jpg",
     "static/media/11.jpg": "/personal_website/static/media/11.f3ba7fa230155935a5b5.jpg",
@@ -21,12 +21,12 @@
     "static/media/3.jpg": "/personal_website/static/media/3.4d9e9a8f4478a529a491.jpg",
     "static/media/s-n-low-resolution-logo-white-on-transparent-background.png": "/personal_website/static/media/s-n-low-resolution-logo-white-on-transparent-background.93bd16ffb3825b20ab39.png",
     "index.html": "/personal_website/index.html",
-    "main.7d740140.css.map": "/personal_website/static/css/main.7d740140.css.map",
+    "main.cfd35e20.css.map": "/personal_website/static/css/main.cfd35e20.css.map",
     "main.ebbfb080.js.map": "/personal_website/static/js/main.ebbfb080.js.map",
     "787.28cb0dcd.chunk.js.map": "/personal_website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d740140.css",
+    "static/css/main.cfd35e20.css",
     "static/js/main.ebbfb080.js"
   ]
 }
