@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.cfd35e20.css",
+    "main.css": "/personal_website/static/css/main.bbcc63c0.css",
     "main.js": "/personal_website/static/js/main.ebbfb080.js",
     "static/js/787.28cb0dcd.chunk.js": "/personal_website/static/js/787.28cb0dcd.chunk.js",
     "static/media/IMG20220715155127 (2).jpg": "/personal_website/static/media/IMG20220715155127 (2).21705cb99a110a1133e8.jpg",
@@ -14,19 +14,19 @@
     "static/media/9.jpg": "/personal_website/static/media/9.eaee3f6fa9bd8f38f374.jpg",
     "static/media/1.jpg": "/personal_website/static/media/1.129edd16155028d3c8e4.jpg",
     "static/media/4.jpg": "/personal_website/static/media/4.e13a5d6216576be4e5cc.jpg",
+    "static/media/image.png": "/personal_website/static/media/image.109f01dcee9e930bb2a6.png",
     "static/media/6.jpg": "/personal_website/static/media/6.8f6f444f902301ea7c8b.jpg",
     "static/media/5.jpg": "/personal_website/static/media/5.1058036e0f40a9ee71a5.jpg",
-    "static/media/WhatsApp Image 2022-06-29 at 10.20.08 PM.jpeg": "/personal_website/static/media/WhatsApp Image 2022-06-29 at 10.20.08 PM.86ae0999128e876ccfe8.jpeg",
     "static/media/2.jpg": "/personal_website/static/media/2.f97cfcb99e1f9fa82ff9.jpg",
     "static/media/3.jpg": "/personal_website/static/media/3.4d9e9a8f4478a529a491.jpg",
     "static/media/s-n-low-resolution-logo-white-on-transparent-background.png": "/personal_website/static/media/s-n-low-resolution-logo-white-on-transparent-background.93bd16ffb3825b20ab39.png",
     "index.html": "/personal_website/index.html",
-    "main.cfd35e20.css.map": "/personal_website/static/css/main.cfd35e20.css.map",
+    "main.bbcc63c0.css.map": "/personal_website/static/css/main.bbcc63c0.css.map",
     "main.ebbfb080.js.map": "/personal_website/static/js/main.ebbfb080.js.map",
     "787.28cb0dcd.chunk.js.map": "/personal_website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfd35e20.css",
+    "static/css/main.bbcc63c0.css",
     "static/js/main.ebbfb080.js"
   ]
 }
